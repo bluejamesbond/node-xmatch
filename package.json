@@ -1,0 +1,19 @@
+{
+  "name": "node-xmatch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "regex",
+    "match",
+    "locate"
+  ],
+  "author": "Mathew Kurian",
+  "license": "ISC",
+  "dependencies": {
+    "underscore": "^1.8.3"
+  }
+}
